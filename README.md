@@ -8,18 +8,18 @@
 ### Example
  - /search-string india 
  
-      **OUTPUT**
-           Search result for india:
-           India A country in South Asia. It is the second-most populous country, the seventh-largest country...
-           https://duckduckgo.com/India
-           -------------------------------------------------
-           Indian subcontinentA physiographical region in southern Asia, situated on the Indian Plate and projecting southwards...
-           https://duckduckgo.com/Indian_subcontinent
-           -------------------------------------------------
-           Dominion of IndiaAn independent dominion in the British Commonwealth of Nations between 15 August 1947 and 26...
-           https://duckduckgo.com/Dominion_of_India
-           -------------------------------------------------
-           ==========================================================
+ ####OUTPUT
+     Search result for india:
+     India A country in South Asia. It is the second-most populous country, the seventh-largest country...
+     https://duckduckgo.com/India
+     -------------------------------------------------
+     Indian subcontinentA physiographical region in southern Asia, situated on the Indian Plate and projecting southwards...
+     https://duckduckgo.com/Indian_subcontinent
+     -------------------------------------------------
+     Dominion of IndiaAn independent dominion in the British Commonwealth of Nations between 15 August 1947 and 26...
+     https://duckduckgo.com/Dominion_of_India
+     -------------------------------------------------
+     ==========================================================
 - /search-pydocs sum
      **OUTPUT**
            Describtion of sum:
