@@ -1,7 +1,7 @@
 # slack-bot-pydocs-search
 ###  Installation
 - Add to My-Workspace [slack workspace]
-- within the MY-Workspace you can access the pydocs-search bot in #pydocs-search channel and also in app section you can look for pydocs-search app.
+- within the MY-Workspace you can access the pydocs-search bot in the #pydocs-search channel and also under the app section you can look for the pydocs-search app
 ### Working
 - /search-string command to search for something on internet
 - /search-pydocs command to seacrh for description of python function
