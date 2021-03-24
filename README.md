@@ -20,7 +20,7 @@
             -------------------------------------------------
             ==========================================================
       - /search-pydocs sum
-         **OUTPUT**
+        **OUTPUT**
             Describtion of sum:
             Help on built-in function sum in module builtins:
             sum(iterable, start=0, /)
