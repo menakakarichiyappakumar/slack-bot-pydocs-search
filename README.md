@@ -8,7 +8,7 @@
 ### Example
  - /search-string india 
 
-     **OUTPUT
+     **OUTPUT**
      
        Search result for india:
        India A country in South Asia. It is the second-most populous country, the seventh-largest country...
@@ -23,7 +23,7 @@
        ==========================================================
 - /search-pydocs sum
 
-    **OUTPUT
+    **OUTPUT**
     
       Describtion of sum:
       Help on built-in function sum in module builtins:
