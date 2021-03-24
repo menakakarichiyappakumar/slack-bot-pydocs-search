@@ -7,7 +7,7 @@
       - /search-pydocs command to seacrh for description of python function
 ### Example
       - /search-string india 
-         ####OUTPUT
+         **OUTPUT**
             Search result for india:
             India A country in South Asia. It is the second-most populous country, the seventh-largest country...
             https://duckduckgo.com/India
@@ -20,7 +20,7 @@
             -------------------------------------------------
             ==========================================================
       - /search-pydocs sum
-         ####OUTPUT
+         **OUTPUT**
             Describtion of sum:
             Help on built-in function sum in module builtins:
             sum(iterable, start=0, /)
