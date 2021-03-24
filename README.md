@@ -7,6 +7,7 @@
 - /search-pydocs command to seacrh for description of python function
 ### Example
  - /search-string india 
+
      **OUTPUT
      
        Search result for india:
@@ -21,6 +22,7 @@
        -------------------------------------------------
        ==========================================================
 - /search-pydocs sum
+
     **OUTPUT
     
       Describtion of sum:
