@@ -85,4 +85,4 @@
    - git push heroku master
   
  **Deployment completed** 
-**Now got the slack workspace and execute the slash command**
+**Now go to the slack workspace and execute the slash command**
