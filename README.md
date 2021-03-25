@@ -82,6 +82,7 @@
 - **Deploy** code to heroku
    - git add .
    - git commit -m "slack bot"
-   - git push heroku master'
+   - git push heroku master
+  
  **Deployment completed** 
 **Now got the slack workspace and execute the slash command**
