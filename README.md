@@ -45,14 +45,8 @@
 - heroku cli Download form [https://devcenter.heroku.com/articles/heroku-cli#download-and-install]
 
 ### Installing Required pyhon modules
-- slack 
-  **command**  pip install slack
-- flask
- **command**  pip install flask
-- dotenv
- **command** pip install dotenv
- - bs4
-  **command** pip install bs4
+- clone the current repo
+- Execute **Command** pip install .
   
  ### Setting up Heroku application
  
