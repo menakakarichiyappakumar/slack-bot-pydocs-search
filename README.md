@@ -1,5 +1,13 @@
 # slack-bot-pydocs-search
 
+This repo is to create slack bot named pydoc-search.
+Which will perform two opertion 
+  -> To search something over internet
+  -> To get description of python function
+  
+/search-string is used to search something over internet
+/search-pydocs is used to get the python function description 
+
 ## Usage
 ###  Installation
 - Add to My-Workspace [slack workspace]
